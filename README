@@ -1,0 +1,1 @@
+toggleRadio is a jQuery plugin that transforms standard HTML radio buttons into toggleable radio buttons.  This is valuable as a set of radio buttons is completely unchecked when a page is loaded, unless explicitly checked by the code.  Allowing users the ability to uncheck all options in a radio button group ensures consistency in both user experience and form data.
